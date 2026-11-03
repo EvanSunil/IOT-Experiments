@@ -21,7 +21,7 @@ The LED was successfully controlled using a pushbutton switch through the ESP32 
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit(2).png)
+![Circuit Diagram](Circuit(2).png)
 
 ## Wokwi Simulation
 https://wokwi.com/projects/479686977127531521
