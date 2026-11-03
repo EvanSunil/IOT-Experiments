@@ -26,7 +26,7 @@ The Raspberry Pi Pico sends a HIGH signal to GPIO 15 to turn ON the LED and a LO
 The LED blinks continuously with a one-second ON and OFF delay.
 
 ## Wokwi Simulation
-https://wokwi.com/projects/new/pi-pico
+https://wokwi.com/projects/479690250827867137
 
 ## Circuit Diagram
 ![Circuit Diagram](Circuit(4).png)
