@@ -32,3 +32,4 @@ The LED glows while the pushbutton is pressed and turns OFF when released.
 https://wokwi.com/projects/479690544411431937
 
 ## Circuit Diagram
+![Circuit Diagram](Circuit(5).png)
