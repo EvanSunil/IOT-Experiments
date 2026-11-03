@@ -20,3 +20,6 @@ The LED was successfully interfaced with ESP32 and made to blink at regular inte
 
 ## Wokwi Simulation
 https://wokwi.com/projects/479685882169362433
+
+## Circuit Diagram
+![Circuit Diagram](Circuit(1).png)
