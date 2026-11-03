@@ -19,5 +19,9 @@ The pushbutton is connected to GPIO 4 of the ESP32 using the internal pull-up re
 ## Result
 The LED was successfully controlled using a pushbutton switch through the ESP32 in the Wokwi simulator.
 
+## Circuit Diagram
+
+![Circuit Diagram](circuit(2).png)
+
 ## Wokwi Simulation
 https://wokwi.com/projects/479686977127531521
